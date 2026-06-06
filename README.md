@@ -16,3 +16,7 @@ M.Tech Student in Electronic Design and Technology at Tezpur University.
 - SystemVerilog
 - Design Verification
 - ASIC Design Flow
+
+## Resume
+
+[View Resume](https://github.com/himanshu-rabha/Resume)
