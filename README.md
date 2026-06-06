@@ -19,4 +19,4 @@ M.Tech Student in Electronic Design and Technology at Tezpur University.
 
 ## Resume
 
-[View Resume](https://github.com/himanshu-rabha/Resume)
+📄 [View Resume](https://github.com/himanshu-rabha/Resume/blob/main/Resume.pdf)
