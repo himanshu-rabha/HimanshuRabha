@@ -1,24 +1,3 @@
-# Hi, I'm Himanshu Rabha
-
-M.Tech Student in Electronic Design and Technology at Tezpur University.
-
-## Interests
-
-- VLSI Design
-- RTL Design
-- Semiconductor Technology
-- Embedded Systems
-- Web Development
-
-## Currently Learning
-
-- Verilog HDL
-- SystemVerilog
-- Design Verification
-- ASIC Design Flow
-
 ## Resume
 
-
-
-📄 [View Resume](https://github.com/himanshu-rabha/Resume/VLSI_DESIGN_Resume (1).pdf)
+📄 [View Resume](https://github.com/himanshu-rabha/Resume/blob/main/Resume/VLSI_DESIGN_Resume (1).pdf)
