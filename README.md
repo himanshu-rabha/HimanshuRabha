@@ -21,4 +21,4 @@ M.Tech Student in Electronic Design and Technology at Tezpur University.
 
 
 
-📄 [View Resume](https://github.com/himanshu-rabha/Resume/blob/main/VLSI_DESIGN_Resume (1).pdf)
+📄 [View Resume](https://github.com/himanshu-rabha/Resume/VLSI_DESIGN_Resume (1).pdf)
